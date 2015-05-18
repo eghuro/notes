@@ -232,7 +232,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1431953835131" ID="ID_154312988" MODIFIED="1431953839758" POSITION="right" TEXT="Sitova neutralita">
+<node CREATED="1431953835131" FOLDED="true" ID="ID_154312988" MODIFIED="1431960186533" POSITION="right" TEXT="Sitova neutralita">
 <node CREATED="1431953928067" FOLDED="true" ID="ID_1004772582" MODIFIED="1431958202666" TEXT="o cem je sitova neutralita?">
 <node CREATED="1431953934579" ID="ID_1173436939" MODIFIED="1431954996518" TEXT="novy buzzword">
 <node CREATED="1431955002366" ID="ID_983629035" MODIFIED="1431955007194" TEXT="fungovani IP"/>
@@ -398,6 +398,141 @@
 <node CREATED="1431957485765" ID="ID_669091202" MODIFIED="1431957502531" TEXT="kde je hranice - komercni netflix vs. O2 TV?"/>
 </node>
 <node CREATED="1431958136856" ID="ID_487291688" MODIFIED="1431958150490" TEXT="je poptavka po regulaci?"/>
+</node>
+</node>
+<node CREATED="1431960175546" ID="ID_1995390215" MODIFIED="1431960182129" POSITION="right" TEXT="Blokovani obsahu internetu">
+<node CREATED="1431960244804" FOLDED="true" ID="ID_1654543392" MODIFIED="1431964588447" TEXT="Blokovani internetu">
+<node CREATED="1431961667088" ID="ID_1693881871" MODIFIED="1431961700003" TEXT="soudni dvur EU nechal moznost operatorum dat soudni prikaz zablokovat pristup uzivatelum ke strankam se zavadnym obsahem"/>
+<node CREATED="1431960305878" ID="ID_1521887980" MODIFIED="1431960401685" TEXT="&quot;konske pravo&quot;">
+<node CREATED="1431960401686" ID="ID_1114459128" MODIFIED="1431961751371" TEXT="ne vse, co se odehraje na obrazovkach je pravo informacnich technologii"/>
+<node CREATED="1431960419418" ID="ID_1682718358" MODIFIED="1431960457943" TEXT="mnoho otazek / agend je pokryto stavajici legislativou, netreba specificke"/>
+</node>
+<node CREATED="1431960623958" ID="ID_1152860698" MODIFIED="1431960627522" TEXT="data retention">
+<node CREATED="1431960627523" ID="ID_342448157" MODIFIED="1431960649385" TEXT="jako eurozatykac by melo existovat vymahani prava na Internetu napric EU"/>
+</node>
+<node CREATED="1431960726174" ID="ID_1671363460" MODIFIED="1431960784230" TEXT="operatori nemaji ambici sledovat, nemohou utect regulaci/legislative"/>
+<node CREATED="1431960800691" ID="ID_735101278" MODIFIED="1431960811074" TEXT="skrz loterijni zakon by nemelo probihat">
+<node CREATED="1431960818523" ID="ID_1664883297" MODIFIED="1431960833414" TEXT="proti Digitalnimu Cesku"/>
+<node CREATED="1431960837997" ID="ID_1122516442" MODIFIED="1431960863084" TEXT="neexistuje konsensus"/>
+<node CREATED="1431960876468" ID="ID_1998365665" MODIFIED="1431960897670" TEXT="operatori nestoji o kompenzace ani o ulohu dozorce"/>
+</node>
+<node CREATED="1431960936495" ID="ID_1865492721" MODIFIED="1431960942548" TEXT="3x a dost, HADOPI"/>
+<node CREATED="1431961173106" ID="ID_809416942" MODIFIED="1431961176104" TEXT="navrhy">
+<node CREATED="1431961176104" ID="ID_1385050574" MODIFIED="1431961183745" TEXT="specifikace, co ma byt dosazeno"/>
+<node CREATED="1431961184239" ID="ID_828309021" MODIFIED="1431961189102" TEXT="specifikovan i postup"/>
+</node>
+<node CREATED="1431961245405" ID="ID_1448555948" MODIFIED="1431961252354" TEXT="podobne bezpecny internet">
+<node CREATED="1431961252356" ID="ID_1634892013" MODIFIED="1431961254911" TEXT="jak zajistit?"/>
+<node CREATED="1431961256495" ID="ID_1979521194" MODIFIED="1431961290387" TEXT="nelze jen tak aplikovat jednoducha opatreni"/>
+</node>
+<node CREATED="1431961371501" ID="ID_1744366291" MODIFIED="1431961379266" TEXT="blokovani nelegalniho obsahu">
+<node CREATED="1431961379269" ID="ID_1197855151" MODIFIED="1431961392378" TEXT="neni tak jednoduche jak si pravnici mohou predstavovat"/>
+<node CREATED="1431961392888" ID="ID_491783080" MODIFIED="1431961400818" TEXT="ulozeny / prenaseny obsah"/>
+<node CREATED="1431961586934" ID="ID_528590029" MODIFIED="1431961595064" TEXT="proti, v CR neni uplatnovano"/>
+</node>
+</node>
+<node CREATED="1431961994238" FOLDED="true" ID="ID_1150703888" MODIFIED="1431964589648" TEXT="Soudkyne Mestskeho soudu v Praze - autorskopravni spory bez kolektivniho spravce">
+<node CREATED="1431962042658" ID="ID_175025857" MODIFIED="1431962059144" TEXT="vetsi diskuse, nez je realne pocet sporu"/>
+<node CREATED="1431962076903" ID="ID_1012158317" MODIFIED="1431962091704" TEXT="radove jednotky sporu, neustalena legislativa"/>
+<node CREATED="1431962096540" ID="ID_764263075" MODIFIED="1431962275591" TEXT="vice se posuzuje ochrana osobnosti, odpovednost za diskusni prispevky, urazek">
+<node CREATED="1431962113163" ID="ID_798722134" MODIFIED="1431962202751" TEXT="rozhodnuti velkeho senatu - prezkum rozhodnuti ES pro LP">
+<node CREATED="1431962132627" ID="ID_1497797223" MODIFIED="1431962147928" TEXT="portal uznan odpovednym za urazlive, hrube prispevky ctenaru"/>
+<node CREATED="1431962148421" ID="ID_1395685116" MODIFIED="1431962152447" TEXT="nezabranil zverejneni">
+<node CREATED="1431962205633" ID="ID_302557713" MODIFIED="1431962220234" TEXT="odstranil bezprostredne po upozorneni"/>
+<node CREATED="1431962220603" ID="ID_221876160" MODIFIED="1431962230787" TEXT="dle rozhodnuti mel odstranit bezprostredne"/>
+</node>
+<node CREATED="1431962152795" ID="ID_1580799944" MODIFIED="1431962161150" TEXT="nechal odesilatele v anonymite"/>
+<node CREATED="1431962232412" ID="ID_1471456757" MODIFIED="1431962239691" TEXT="oznaceno za absurditu r. 2013"/>
+<node CREATED="1431962251002" ID="ID_1618101307" MODIFIED="1431962256099" TEXT="neni rozhodnuti"/>
+</node>
+</node>
+<node CREATED="1431962293032" ID="ID_1045845987" MODIFIED="1431962301945" TEXT="co je a co neni vykonatelne?">
+<node CREATED="1431962306562" ID="ID_520994237" MODIFIED="1431962328533" TEXT="zakazy obecneho jednani">
+<node CREATED="1431962328535" ID="ID_1034676016" MODIFIED="1431962334317" TEXT="paralela s domacim nasilim">
+<node CREATED="1431962334320" ID="ID_51521647" MODIFIED="1431962343643" TEXT="zakaz priblizovani etc."/>
+</node>
+</node>
+<node CREATED="1431962376082" ID="ID_1559546159" MODIFIED="1431962390189" TEXT="nasledne je na exekucnim soudci, zda doslo ci nedoslo k poruseni"/>
+<node CREATED="1431962392388" ID="ID_1759192533" MODIFIED="1431962397080" TEXT="nejsou zkusenosti v CR"/>
+</node>
+</node>
+<node CREATED="1431961758125" FOLDED="true" ID="ID_12582180" MODIFIED="1431964591678" TEXT="poznamky k aplikaci v ceskem pravnim prostredi (nazory)">
+<node CREATED="1431961768572" ID="ID_672304541" MODIFIED="1431961778291" TEXT="nereseno prokazani existence naroku">
+<node CREATED="1431961786747" ID="ID_545226613" MODIFIED="1431961808652" TEXT="je potreba aby se prokazalo, ze skutecne nekdo neopravnene nasdilel obsah"/>
+<node CREATED="1431961808960" ID="ID_502765972" MODIFIED="1431961824306" TEXT="jak prokazat, do jake hloubky dokazovat"/>
+</node>
+<node CREATED="1431961831681" ID="ID_368256623" MODIFIED="1431961857512" TEXT="zalobce by mel pozadovat narovnani stavu vuci skudci a az pote vyzadovat blokovani">
+<node CREATED="1431961877084" ID="ID_389728408" MODIFIED="1431961892568" TEXT="rovnou jen kdyz skudce v nedostupne jurisdikci"/>
+</node>
+<node CREATED="1431961900176" ID="ID_608271901" MODIFIED="1431961915428" TEXT="smernice rika, ze staty maji zajistit povinnost ISP blokovat pristup">
+<node CREATED="1431961920183" ID="ID_874207928" MODIFIED="1431961926228" TEXT="rozsudek takto neformuloval"/>
+<node CREATED="1431961926680" ID="ID_1249079320" MODIFIED="1431961933902" TEXT="rozsudek vagni, siroky"/>
+</node>
+<node CREATED="1431963178311" ID="ID_1183674511" MODIFIED="1431963222971" TEXT="mel by se zalovat narusitel, ne ISP pro predbeznou otazku"/>
+<node CREATED="1431963023933" ID="ID_744227874" MODIFIED="1431963127822" TEXT="oddelena odpovednost">
+<node CREATED="1431963127825" ID="ID_448840113" MODIFIED="1431963141235" TEXT="ani operator nevi urcite o koho jde"/>
+</node>
+<node CREATED="1431963237349" ID="ID_135043467" MODIFIED="1431963255541" TEXT="obtizne dohledavani konkretnich uzivatelu - sdilecu">
+<node CREATED="1431963255543" ID="ID_797446538" MODIFIED="1431963269780" TEXT="institut sdeleni identity, nikoliv omezeni pristupu"/>
+</node>
+</node>
+<node CREATED="1431963342445" FOLDED="true" ID="ID_981883755" MODIFIED="1431964594267" TEXT="postoj Google k rozsudku - pravo byt zapomenut">
+<node CREATED="1431963414926" ID="ID_578785366" MODIFIED="1431963474310" TEXT="nekdo zadal sve jmeno, vypadly vysledky, mj. spanelsky denik, z osobniho pohledu negativni informace o nem, soudne se domahal odstraneni"/>
+<node CREATED="1431963475281" ID="ID_1056859504" MODIFIED="1431963489799" TEXT="predbezna otazka na ESD">
+<node CREATED="1431963517413" ID="ID_717134462" MODIFIED="1431963546292" TEXT="smernice z roku 95 - resici ochranu a zpracovani OU"/>
+<node CREATED="1431963546430" ID="ID_1727833812" MODIFIED="1431963559036" TEXT="clanky 7 a 8 LSZP EU - ochrana osobnosti"/>
+<node CREATED="1431963585389" ID="ID_1423324159" MODIFIED="1431963613927" TEXT="informacni bulletin UOOU - pravo byt zapomenut"/>
+</node>
+<node CREATED="1431964058272" ID="ID_1711060666" MODIFIED="1431964063823" TEXT="transparency report"/>
+<node CREATED="1431963513225" ID="ID_1735791384" MODIFIED="1431964056642" TEXT="spolecnost stavena do role soudce"/>
+<node CREATED="1431964076678" ID="ID_302493638" MODIFIED="1431964094070" TEXT="zdanlive ruzne oblasti - ale vse kryto v DSM">
+<node CREATED="1431964143785" ID="ID_1694042916" MODIFIED="1431964154777" TEXT="volny pohyb sluzeb a zaroven regulace proti"/>
+<node CREATED="1431964155081" ID="ID_123055589" MODIFIED="1431964162284" TEXT="&quot;platforma&quot;">
+<node CREATED="1431964162286" ID="ID_1352382126" MODIFIED="1431964169006" TEXT="pouzivany termin bez definice"/>
+</node>
+<node CREATED="1431964208360" ID="ID_1897651829" MODIFIED="1431964222171" TEXT="obecne pro koho se dela regulace"/>
+</node>
+<node CREATED="1431964383624" ID="ID_1546753152" MODIFIED="1431964386066" TEXT="komentare">
+<node CREATED="1431964386068" ID="ID_1799930691" MODIFIED="1431964409553" TEXT="regulace ma byt proveditelna - nezabyvaji se tim"/>
+<node CREATED="1431964410402" ID="ID_1992234701" MODIFIED="1431964423673" TEXT="role vyhledavace - svet poznavame skrz vyhledavac">
+<node CREATED="1431964438657" ID="ID_289182685" MODIFIED="1431964446326" TEXT="snaha zasadit do znamych forem"/>
+<node CREATED="1431964450856" ID="ID_422496752" MODIFIED="1431964458650" TEXT="jsme na zacatku dlouhodobe diskuse"/>
+</node>
+<node CREATED="1431964521388" ID="ID_732575076" MODIFIED="1431964557703" TEXT="ESD slozite interpretovat"/>
+</node>
+</node>
+<node CREATED="1431964598757" ID="ID_165308670" MODIFIED="1431964629414" TEXT="Navrh zakona o hazardu - O. Plesmid z MF CR">
+<node CREATED="1431964608834" ID="ID_761488111" MODIFIED="1431964664670" TEXT="soucasny stav">
+<node CREATED="1431964664671" ID="ID_306709709" MODIFIED="1431964691760" TEXT="podarilo se predlozit"/>
+<node CREATED="1431964692258" ID="ID_527023369" MODIFIED="1431964700041" TEXT="na konci cervna snad projedna vlada"/>
+</node>
+<node CREATED="1431964701678" ID="ID_1029304112" MODIFIED="1431964705490" TEXT="blokace internetu">
+<node CREATED="1431964705493" ID="ID_321357549" MODIFIED="1431964714267" TEXT="inspirace zapadem">
+<node CREATED="1431964714268" ID="ID_1200165489" MODIFIED="1431964717472" TEXT="Dansko"/>
+<node CREATED="1431964729501" ID="ID_1280282577" MODIFIED="1431964739665" TEXT="&quot;osvedcena praxe Evropskych regulatoru&quot;"/>
+</node>
+<node CREATED="1431964764883" ID="ID_822957936" MODIFIED="1431964776240" TEXT="spravni rizeni">
+<node CREATED="1431964809360" ID="ID_1848677304" MODIFIED="1431964815244" TEXT="soudne prezkoumatelne"/>
+<node CREATED="1431964815680" ID="ID_501385815" MODIFIED="1431964818331" TEXT="rychlejsi"/>
+<node CREATED="1431964941737" ID="ID_651370321" MODIFIED="1431964952235" TEXT="subjektem: stranka / domena"/>
+<node CREATED="1431964954028" ID="ID_466542552" MODIFIED="1431964964530" TEXT="provozovatel muze byt nekdo jiny"/>
+<node CREATED="1431964965448" ID="ID_1648200746" MODIFIED="1431964977505" TEXT="ISP maji povinnost ze zakona bez opravnych prostredku">
+<node CREATED="1431964987514" ID="ID_824730461" MODIFIED="1431964999231" TEXT="15 dnu na update seznamu po pridani domeny"/>
+</node>
+<node CREATED="1431965001967" ID="ID_987028371" MODIFIED="1431965010375" TEXT="blokace ma byt az posledni prostredek"/>
+</node>
+<node CREATED="1431965136816" ID="ID_70288275" MODIFIED="1431965142136" TEXT="zkusenost z Francie">
+<node CREATED="1431965142138" ID="ID_1091652596" MODIFIED="1431965165442" TEXT="nejprve oslovit poskytovatele k zamezeni pristupu pro Francii"/>
+<node CREATED="1431965166789" ID="ID_949626930" MODIFIED="1431965190188" TEXT="vetsinou dobrovolne vyhoveli"/>
+<node CREATED="1431965174623" ID="ID_312991618" MODIFIED="1431965183211" TEXT="az potom spravni rizeni"/>
+</node>
+<node CREATED="1431965301322" ID="ID_657175644" MODIFIED="1431965305914" TEXT="seznam bude verejny"/>
+<node CREATED="1431965307586" ID="ID_1464533164" MODIFIED="1431965320379" TEXT="po vstoupeni v platnost budou kontaktovat weby"/>
+<node CREATED="1431965334384" ID="ID_1777958306" MODIFIED="1431965344460" TEXT="nezabyvali se technickym resenim">
+<node CREATED="1431965605734" ID="ID_1019871284" MODIFIED="1431965629273" TEXT="upozorneni UPC na detaily a slozitost"/>
+<node CREATED="1431965630543" ID="ID_436090667" MODIFIED="1431965637402" TEXT="navrzeno sledovat platby"/>
+</node>
+</node>
 </node>
 </node>
 </node>
